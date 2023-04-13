@@ -718,8 +718,8 @@ h1 {
   align-items: center;
   justify-content: center;
   padding: 24px;
-  border-top: 1px solid;
-  border-bottom: 1px solid;
+  /* border-top: 1px solid;
+  border-bottom: 1px solid; */
 }
 
 .pricing__plan--feature--main {
